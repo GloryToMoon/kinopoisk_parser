@@ -1,2 +1,2 @@
-# kinopoisk_parser
+# Парсер кинопоиска
 sho
