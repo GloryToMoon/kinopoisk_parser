@@ -20,7 +20,7 @@ div {
 <h1>A: -Why not?</h1>
 <h1>Q: -Hey, thats my server! How I get it back?</h1>
 <h1>A: -Say a magic word.</h1>
-<h1>A: -How can I contact you?</h1>
+<h1>Q: -How can I contact you?</h1>
 <h1><a href="https://www.google.at/search?q=wojak+doomer&authuser=0&hl=ru&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiFqMDaq-HnAhUwQEEAHbsiDYwQ_AUoAXoECAwQAw&biw=1920&bih=966">YOBA</a></h1>
 </div>
 </body>
